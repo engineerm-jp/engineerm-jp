@@ -35,7 +35,7 @@ def IK(pos):
     # theta3 : this is the angle the for the third servo motor and is measured from the axis that is co-linear to the femur. 
  
     x, y, z = pos[0], pos[1], pos[2]
-    x += 0.00001
+    x += 0.00001 # this is to avoid zero-division math error
 
     # specify the length of the leg components
     coxa    = 10      # coxa length
