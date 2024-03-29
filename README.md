@@ -1,6 +1,6 @@
 # Introduction
 
-A passionate mechatronics engineering student who loves robots and space. I currently develop a four-legged robot during my free time, and I am planning to make the project public once I clean up the work.
+A passionate mechatronics engineering student who loves robots and space.
 
 
 ## YouTube Channel - [Engineer M]([https://](https://www.youtube.com/c/EngineerM))
