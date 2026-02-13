@@ -1,5 +1,3 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=engineerm-jp&hide=issues&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide_title=true&hide_rank=false" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineerm-jp&hide=latex&layout=compact&hide_border=true&theme=tokyonight&langs_count=5" /></a> |
-| ------------- | ------------- |
 # Introduction
 
 A passionate mechatronics engineering student who loves robots and space.
